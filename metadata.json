@@ -1,0 +1,10 @@
+{
+  "name": "AI Opportunity Capture System",
+  "description": "CLNCH is an AI-powered opportunity capture and profiling dashboard that analyzes links, extracts requirements, tracks deadlines, and drafts personalized application scripts using a custom calibrated voice profile.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
